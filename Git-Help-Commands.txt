@@ -1,0 +1,34 @@
+To Clone a repository into local machine:
+    git clone <link>
+
+Change directory into Moto-Website-Clone using :
+    cd Moto-Website-Clone
+
+To check the status:
+    git status 
+
+
+UNTRACKED:
+    new file that git doen't tracked
+
+MODIFIED:
+    changed
+STAGED:
+    file is ready to commit
+
+
+Add: (mandatory)
+    git add <file-name>
+To Add all files:
+    git add .
+
+Commit: (mandatory)
+    git commit -m "some message/abt the modification"
+
+PUSH: -> Upload local repo contents into GitHub site. (mandatory)
+    gir push origin main
+
+
+
+Add photos used in the assets folder.
+Newly created components in the components folder.
