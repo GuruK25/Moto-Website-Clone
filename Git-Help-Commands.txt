@@ -26,7 +26,7 @@ Commit: (mandatory)
     git commit -m "some message/abt the modification"
 
 PUSH: -> Upload local repo contents into GitHub site. (mandatory)
-    gir push origin main
+    git push origin main
 
 
 
