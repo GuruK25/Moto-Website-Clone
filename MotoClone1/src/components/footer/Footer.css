@@ -1,0 +1,13 @@
+.footer-container{
+    background-color: #bbd731;
+    height: auto;
+    width: 100vw;
+    display: flex;
+    flex-direction: column; 
+}
+
+
+.copright{
+    background-color: rgb(244, 235, 235);
+}
+

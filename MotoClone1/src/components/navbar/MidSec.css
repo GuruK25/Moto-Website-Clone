@@ -1,0 +1,31 @@
+.MidSec-conatainer{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    height: 55%;
+    align-items: center;
+    justify-content: space-between;
+    padding-left:5% ;
+    padding-right: 5%;
+}
+#logo{
+    height: 80%;
+    border-radius: 50%;
+}
+#icon-container{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    height: 20px;
+
+}
+#profileIcon{
+    height: 20px;
+}
+#likeIcon{
+    height: 20px;
+}
+
+#shopIcon{
+    height: 20px;
+}

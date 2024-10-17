@@ -1,0 +1,7 @@
+.navSection{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 220px;
+    width: 100vw;
+}

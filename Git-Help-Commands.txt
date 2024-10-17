@@ -19,6 +19,7 @@ STAGED:
 
 Add: (mandatory)
     git add <file-name>
+
 To Add all files:
     git add .
 
@@ -30,5 +31,5 @@ PUSH: -> Upload local repo contents into GitHub site. (mandatory)
 
 
 
-Add photos used in the assets folder.
-Newly created components in the components folder.
+Add photos into the assets folder,
+New created components in the components folder.

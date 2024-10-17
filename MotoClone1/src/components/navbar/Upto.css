@@ -1,0 +1,15 @@
+.uptoConatainer{
+    background-color: rgb(244, 235, 235);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 18%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#p1{
+    color: solid black;
+}
+#p2{
+    color: rgb(83, 136, 3);
+}

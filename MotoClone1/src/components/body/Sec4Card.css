@@ -1,0 +1,23 @@
+.Sec4Card{
+    /* background-color: #824adc; */
+    height: 100%;
+    width: 30%;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 7%;
+    align-items: center;
+
+}
+
+#bikeImage{
+    width: 100%;
+    height: 50%;
+}
+#line{
+    size: 2 rem;
+    background-color: green;
+    width: 80%;
+    height: 2%;
+}

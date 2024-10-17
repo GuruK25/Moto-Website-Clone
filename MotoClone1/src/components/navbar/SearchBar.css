@@ -1,0 +1,21 @@
+.searchBar-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1%;
+    /* border: 2px solid black;
+    border-radius: 20%; */
+    height: 30%;
+    width: 21%;
+
+}
+#searchicon{
+    height: 88%;
+    width: 24px;
+}
+#input{
+    height: 83%;
+    width: 81%;
+    border: 2px solid black;
+    border-radius: 10px;
+}

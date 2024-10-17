@@ -1,0 +1,52 @@
+.card-container{
+    height: 100%;
+    /* border: 2px solid black; */
+    width: 32%;
+    /* background-color: #f09c9c; */
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    gap: 2%;
+}
+#card-p-container{
+    box-sizing: border-box;
+    padding-left: 7%;
+    padding-right: 7%;
+    gap: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5%;
+}
+#teamimage{
+    height: 65%;
+    width: 100%;
+    border-radius: 7%;
+}
+#card-p1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1 rem;
+}
+#card-p2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2  rem;
+    
+}
+#card-p3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1 rem;
+}
+#card-p4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    font-size: 1 rem; 
+}
+
+#grab-ticket{
+    
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    color: white;
+}
